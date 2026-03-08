@@ -1,4 +1,4 @@
-export const VITE_BASE_URL = import.meta.env.BACKEND_URL;
+export const VITE_BASE_URL = import.meta.env.VITE_BACKEND_URL;
 
 export const API_PATHS = {
   AUTH: {
